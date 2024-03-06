@@ -1,0 +1,89 @@
+.Front-image{
+    /* padding: 120px; */
+    /* background: url('./myimage.jpg') no-repeat; */
+    /* background-size: cover; */
+    /* height: 100vh; */
+}
+
+.Front-image img{
+    /* object-fit: cover; */
+}
+
+.Front-image div{
+    color: white;
+}
+.Front-image div button{
+    color: white;
+}
+
+.Products img{
+    /* min-height: inherit; */
+    /* min-width: inherit; */
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+}
+
+.Products h3,.Products p{
+    text-align: center;
+}
+
+.Products .col-md-3{
+    /* padding: 2rem; */
+    /* width: 10vh; */
+}
+
+.Product-card{
+    width: 10rem;
+}
+
+.card{
+    margin-top: 3rem;
+}
+
+
+
+.contact-us label,.contact-us {
+    color: white;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+} 
+
+.contact-us .form-control{
+    background-color: transparent;
+    box-shadow: -4px 4px 4px #727071;
+}
+
+.contact-us button{
+    color:white;
+    border: rgb(255, 255, 255) solid 1px;
+    margin-top: 2.5rem;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+i{
+    font-size: 5em;
+}
+
+/* a>i{
+    color: rgb(255, 255, 255);
+} */
+footer p{
+    color: white;
+}
+h6,span{
+    color: white;
+}
+section:first-child{
+    background-color: black;
+}
+.copyright{
+    color: white;
+}
+footer{
+    background-color: black;
+}
